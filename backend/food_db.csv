@@ -1,0 +1,51 @@
+name,calories,carbs,fat,protein,sodium,sugar,category
+Maggi,350,45,14,7,1100,3,processed
+White Rice,130,28,0.3,2.4,1,0,carb
+Grilled Chicken,165,0,3.6,31,70,0,protein
+Banana,105,27,0.3,1.3,1,14,fruit
+Soft Drink (250ml),110,28,0,0,15,28,processed
+Chips (50g),270,29,17,3,170,1,processed
+Salad (Veg),80,12,3,3,80,4,veggie
+Paneer Curry (100g),260,8,21,12,320,4,dairy
+Chapati (1pc),120,18,3,3,150,0,carb
+Paratha (1pc),240,25,12,4,250,1,carb
+Poori (1pc),150,12,9,2,160,0,carb
+Idli (1pc),60,12,0.4,2,60,0,carb
+Dosa (plain),168,33,4,3,200,1,carb
+Masala Dosa,380,45,15,6,350,2,processed
+Upma (1 cup),220,38,5,6,320,2,carb
+Pongal (1 cup),250,34,8,7,380,2,carb
+Chicken Biryani (1 plate),480,55,14,25,950,4,processed
+Veg Biryani (1 plate),410,65,10,7,780,4,veggie
+Curd Rice (1 bowl),150,22,4,4,220,3,dairy
+Sambar (1 bowl),90,12,3,3,420,3,veggie
+Rasam (1 bowl),40,6,1,1,380,1,veggie
+Dal Fry (1 cup),180,22,7,9,440,2,protein
+Rajma (1 cup),210,32,5,9,420,3,protein
+Chole (1 cup),260,31,8,10,480,4,protein
+Aloo Curry (100g),150,22,6,2,420,2,veggie
+Mixed Veg Curry (100g),120,15,4,3,380,3,veggie
+Egg Curry (100g),160,6,10,10,420,1,protein
+Fish Fry (1 piece),200,5,12,18,350,0,protein
+Prawns Fry (100g),190,4,9,22,420,1,protein
+Paneer Butter Masala (100g),320,13,26,7,500,4,dairy
+Kaju Curry (100g),350,20,25,9,480,3,processed
+Butter Chicken (100g),290,10,18,19,520,3,processed
+Mutton Curry (100g),320,8,22,24,540,1,protein
+Bread (2 slices),140,25,2,4,230,2,carb
+Pav (1pc),80,15,1,3,160,1,carb
+Pav Bhaji (1 plate),420,50,20,8,780,4,processed
+Vada Pav,290,35,12,5,420,2,processed
+Samosa (1pc),250,30,12,4,380,2,processed
+Kachori (1pc),300,35,16,5,420,2,processed
+Oats (1 cup cooked),150,27,3,5,180,1,carb
+Cornflakes + Milk (1 bowl),220,35,4,6,260,10,processed
+Chocolate (30g),160,17,9,2,15,14,processed
+Gulab Jamun (1pc),150,20,5,2,60,18,processed
+Laddu (1pc),180,22,8,3,70,14,processed
+Jalebi (50g),220,30,10,2,55,20,processed
+Kheer (1 bowl),260,32,10,7,380,20,dairy
+Ice Cream (100g),210,24,11,3,70,21,processed
+Apple (1 medium),95,25,0.3,0.5,2,19,fruit
+Orange (1 medium),62,15,0.1,1.2,0,12,fruit
+Papaya (100g),43,11,0.3,0.5,6,5,fruit
